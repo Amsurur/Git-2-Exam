@@ -6,3 +6,9 @@
     background-color: #F1F5F8;
     
 }
+
+@media(max-width:768px){
+    .all{
+        height: 2100px;
+    }
+   
