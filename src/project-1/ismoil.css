@@ -1,0 +1,14 @@
+.all{
+    background-image: url("/src/project-1/ismoil.img/Mask group.png");
+    background-repeat: no-repeat;
+    width: 100%; 
+    height: 785px;
+    margin-top: 50px;
+    background-color: #F1F5F8;
+    
+}
+
+@media(max-width:768px){
+    .all{
+        height: 2100px;
+    }
