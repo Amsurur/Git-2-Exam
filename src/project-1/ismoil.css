@@ -1,0 +1,21 @@
+.all{
+    background-image: url("/src/project-1/ismoil.img/Mask group.png");
+    width: 100%; 
+    height: 785px;
+    margin-top: 50px;
+    background-color: #F1F5F8;
+    
+}
+
+.b{
+    border-bottom-right-radius: 60px;
+    height: 359px;
+}
+@media(max-width:768px){
+    .all{
+        height: 2100px;
+    }
+    .b{
+        margin-top: 200px;
+    }
+}
